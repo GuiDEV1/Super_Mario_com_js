@@ -1,2 +1,6 @@
-# Super_Mario_com_js
-Um jogo do super mario feito com html, css e javascript como estudos. 
+<h1 align="center"> Super mario em js </h1>
+
+<div align="center">
+<img src="./imagens/mario.gif" />
+<img src="./imagens/pipe.png" width="100px"/>
+</div>
