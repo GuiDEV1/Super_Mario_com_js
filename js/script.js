@@ -5,7 +5,7 @@ const pipe = document.querySelector(".pipe");
 
 /* 
 essa é a função que faz o mario pular
-toda vez q o usuário pressionar uma tecla
+toda vez que o usuário pressionar uma tecla
 */ 
 
 const jump = () => {
