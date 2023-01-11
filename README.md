@@ -7,7 +7,7 @@
   <p>
     Projeto <i>Super mario</i> feito com html css e JavaScript funcional, para praticar estudos. <br/>
     colocando a propiedades key frames na pratica e manipulação do dom, e também para praticar lógica <br/>
-    de programação. Conforme for surginjdo novas ideas irei atualizando o projeto. Aperte o botão start logo <br/>
+    de programação. Conforme for surginjdo novas ideas irei atualizando o projeto. Clique no botão start logo a abaixo <br/>
     para jogar o game.
   </p>
   </div>
